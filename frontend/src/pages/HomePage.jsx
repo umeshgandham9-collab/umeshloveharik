@@ -122,6 +122,7 @@ const HomePage = () => {
           >
             <Heart className="w-12 h-12 text-primary fill-primary animate-heartbeat" />
             <span className="font-script text-xl text-primary mt-2">Forever</span>
+            <span className="font-script text-lg text-pink-400 mt-1">Bava & Maradalu 💕</span>
           </motion.div>
 
           <motion.div
