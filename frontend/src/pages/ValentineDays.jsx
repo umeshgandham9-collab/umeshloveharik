@@ -204,7 +204,7 @@ P.S. Please give me another chance. I promise to be better. 🙏`
             Valentine <span className="text-gradient-love">Week</span>
           </h1>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            Every day of Valentine's Week has a special meaning. Click on each day to read my special message for you, Harika 💕
+            Every day of Valentine&apos;s Week has a special meaning. Click on each day to read my special message for you, Harika 💕
           </p>
         </motion.div>
 
