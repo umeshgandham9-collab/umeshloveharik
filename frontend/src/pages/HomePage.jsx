@@ -102,11 +102,12 @@ const HomePage = () => {
             animate={{ x: 0, opacity: 1 }}
             transition={{ delay: 0.5 }}
           >
-            <div className="w-40 h-40 sm:w-48 sm:h-48 rounded-full overflow-hidden border-4 border-primary/30 shadow-romantic">
+            <div className="w-40 h-40 sm:w-48 sm:h-48 rounded-full overflow-hidden border-4 border-primary/30 shadow-romantic bg-muted">
               <img
                 src={UMESH_IMAGE}
                 alt="Umesh"
                 className="w-full h-full object-cover"
+                style={{ objectPosition: 'center 30%' }}
               />
             </div>
             <div className="absolute -bottom-2 -right-2 bg-primary rounded-full px-3 py-1">
