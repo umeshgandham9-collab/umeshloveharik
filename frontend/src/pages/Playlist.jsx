@@ -11,15 +11,15 @@ const Playlist = () => {
   const songs = [
     {
       id: 'eCoyD4at3aU',
-      title: 'Inkem Inkem Kaavaale',
-      movie: 'Geetha Govindam',
-      message: 'This song reminds me of the first time I saw you smile... 💕'
+      title: 'Kannullo Unnavu',
+      movie: 'Policeodu',
+      message: 'You are in my eyes, in my heart... 💕'
     },
     {
       id: 's9NBDKfVg1c',
-      title: 'Samajavaragamana',
-      movie: 'Ala Vaikunthapurramuloo',
-      message: 'Every word of this song is what I feel for you...'
+      title: 'Nuvvunte Chaley',
+      movie: 'Andhra King Taluka',
+      message: 'With one glance, something entered my heart...'
     },
     {
       id: 'Q1iskzwrcFU',
@@ -47,15 +47,15 @@ const Playlist = () => {
     },
     {
       id: 'CS7hBHVGWs0',
-      title: 'Nenu Sailaja Title Song',
-      movie: 'Nenu Sailaja',
-      message: 'Pure love, just like ours could be...'
+      title: 'Poolamme Pilla',
+      movie: 'HanuMan',
+      message: 'You are my beautiful Poolamme Pilla...'
     },
     {
       id: 'TPYg7NBo4yY',
-      title: 'Kushi Title Song',
-      movie: 'Kushi',
-      message: 'Wishing for our happy ending... 🌈'
+      title: 'Priya Mithunam',
+      movie: 'Adipurush',
+      message: 'Our love story is eternal... 🌈'
     },
     {
       id: 'hYFzyK9ExuM',
@@ -65,9 +65,9 @@ const Playlist = () => {
     },
     {
       id: 'Yzl8Zys4eRs',
-      title: 'Vachinde',
-      movie: 'Fidaa',
-      message: 'When love comes calling, nothing else matters...'
+      title: 'Lollipop',
+      movie: 'Original',
+      message: 'Sweet like a lollipop, you are my love...'
     },
     {
       id: '2zR4TNTXB6I',
