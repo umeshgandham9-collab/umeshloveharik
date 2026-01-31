@@ -86,11 +86,11 @@ const HomePage = () => {
             Dear <span className="text-gradient-love">Harika</span>,
           </h1>
           <p className="font-script text-2xl sm:text-3xl text-primary mb-6">
-            I Miss You & I'm Sorry
+            I Miss You &amp; I&apos;m Sorry
           </p>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            This website is my way of saying everything I couldn't say in person. 
-            Every pixel, every word, every song - it's all for you. 💕
+            This website is my way of saying everything I couldn&apos;t say in person. 
+            Every pixel, every word, every song - it&apos;s all for you. 💕
           </p>
         </div>
 

@@ -131,7 +131,7 @@ const Gallery = () => {
             </h3>
             <p className="text-muted-foreground max-w-2xl mx-auto mb-6">
               Every photo here holds a special memory. From the first time we met to all the beautiful 
-              moments we've shared, these images are a testament to our love. I can't wait to add 
+              moments we&apos;ve shared, these images are a testament to our love. I can&apos;t wait to add 
               more memories to this gallery, Harika. 💕
             </p>
             <div className="flex items-center justify-center gap-2">
